@@ -52,6 +52,7 @@ foreach($all as $val){
      <input type="text" name="tooinfo" required><br>
     <input type="submit" value="send" ><br>
 </form>
+<a href="/kaif/auth.php">a</a>
 
 
 
