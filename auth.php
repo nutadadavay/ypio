@@ -11,13 +11,13 @@
 <form action="lib/reg.php" method="POST">
     <input type="text" name="email">
     <input type="text" name="pass">
-    <input type="text" name="conf"><br>
+    <input type="text" name="conf">
     <input type="submit" value="send" >
     </form>
     
-    <form action="/lib/auth" method="post">
+    <!-- <form action="/lib/auth" method="post">
     <input type="text" name="email">
     <input type="text" name="pass">
-    </form>  
+    </form>   -->
 </body>
 </html>
